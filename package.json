@@ -1,0 +1,22 @@
+{
+  "name": "pergunta-resposta-nodejs",
+  "version": "1.0.0",
+  "description": "Pacote para testar funcionamento do NPM, perguntas simples na url.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LGustavoC/GamaNode.git"
+  },
+  "author": "Luís Gustavo Cristo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LGustavoC/GamaNode/issues"
+  },
+  "homepage": "https://github.com/LGustavoC/GamaNode#readme",
+  "dependencies": {
+    "query-string": "^7.0.1"
+  }
+}
