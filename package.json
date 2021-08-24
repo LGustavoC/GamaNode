@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/LGustavoC/GamaNode#readme",
   "dependencies": {
+    "fs": "0.0.1-security",
     "query-string": "^7.0.1"
   }
 }
